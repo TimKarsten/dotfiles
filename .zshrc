@@ -101,3 +101,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #Personal aliases
 alias c='clear'
+eval "$(atuin init bash)"
